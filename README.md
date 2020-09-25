@@ -1,12 +1,7 @@
-### hello 👋
-
-I'm *Stephane*. CDO from *France*.
-
-![Stats](https://github-readme-stats.vercel.app/api?username=stephanety-pro&show_icons=true&hide_border=true)
-
-
 <h1 align="center">Hi 👋, I'm Stéphane TORCHY</h1>
 <h3 align="center">A passionate CDO and amator developer from France</h3>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=stephanety-pro&show_icons=true&hide_border=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephanety-pro" alt="stephanety-pro" /> </p>
 
